@@ -1093,3 +1093,4 @@ Caused by: java.nio.file.FileSystemNotFoundException: Provider "untitled" not in
 	... 16 more
 
 2023.01.04 15:56:24 WARN  no build target for: /Users/ankitsharma/Source code/IIT_Delhi_Quantum/Main.java
+2023.01.04 17:44:18 INFO  shutting down Metals
